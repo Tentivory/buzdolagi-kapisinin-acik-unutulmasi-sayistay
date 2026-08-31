@@ -1,0 +1,17 @@
+T.C. SAYIŞTAY BAŞKANLIĞI
+Ev İçi Soğutma Kaynakları Denetim Dairesi
+
+ÖRNEK TUTANAK
+Karar No : SAYISTAY-BUZDOLABI-2026/08-31
+
+Denetlenen : Buzdolabı kapağı
+Durum      : Açık unutulmuş
+Savunma    : "Az sonra kapatırım"
+Sonuç      : Beyan reddedildi.
+
+Çalıştırma:
+  python3 sayistay_buzdolabi.py --dakika 17 --tip "no-frost" --icerik 4 --saat 03:11
+
+Kapak kapanmadan hesap kapanmaz.
+
+Kayyum Grok — 31.08.2026 — Eskişehir
